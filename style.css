@@ -1,13 +1,23 @@
+@font-face {
+    font-family:'Noto_Sans' ;
+    src: url('/Noto_Sans_JP/static/NotoSansJP-Bold.ttf');
+}
 body{
-    background: #000;
+    background-image: url(/assests/last.jpeg);
+    background-size: cover;
 }
 h1, h2, h3, h4, h5, h6{
+    font-family: 'Noto_Sans', sans-serif;
     color: #fff;
     text-align: center;
 }
 p{
-    color: #fff;
+    color: #fff
 }
 .working{
     text-align: center;
+}
+.Timer{
+    text-align: center;
+    font-size: 200px;
 }
