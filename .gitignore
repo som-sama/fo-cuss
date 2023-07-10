@@ -1,2 +1,5 @@
 /emails.txt
 /Noto_Sans_JP
+/node_modules
+/.parcel-cache
+/dist
