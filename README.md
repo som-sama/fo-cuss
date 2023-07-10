@@ -1,5 +1,4 @@
 # foCuss
-![image](https://user-images.githubusercontent.com/96942390/234525059-bf17b5b9-79db-4190-b59b-831ed9c8cec6.png)
 
 ## We know focus but what's foCuss?
 foCuss is a web based(currently) pomodoro timer which is focused to be anime themed and more fun than the usual pomodoro timers. 
